@@ -1,0 +1,6 @@
+// Activamos WP_DEBUG
+define ( 'WP_DEBUG', true);
+// Guardamos errores en /wp-content/debug.log
+define ( 'WP_DEBUG_LOG', true);
+// Ocultamos errores en pantalla
+define ( 'WP_DEBUG_DISPLAY', false);
